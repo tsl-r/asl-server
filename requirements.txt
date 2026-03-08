@@ -1,0 +1,6 @@
+flask
+torch
+torch-geometric
+numpy
+mediapipe
+opencv-python-headless
