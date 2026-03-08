@@ -1,6 +1,8 @@
 flask
-torch
-torch-geometric
+torch==2.1.0
 numpy
 mediapipe
 opencv-python-headless
+torch-geometric==2.4.0
+torch-scatter
+torch-sparse
