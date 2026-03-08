@@ -1,9 +1,7 @@
 flask
 flask-cors
-torch==2.1.0
+torch==2.9.0
+torch-geometric
 numpy
-mediapipe
 opencv-python-headless
-torch-geometric==2.4.0
-torch-scatter
-torch-sparse
+mediapipe
