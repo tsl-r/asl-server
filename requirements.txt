@@ -4,4 +4,4 @@ torch==2.9.0
 torch-geometric
 numpy
 opencv-python-headless
-mediapipe
+mediapipe==0.10.9
