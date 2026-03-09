@@ -4,7 +4,8 @@ import torch
 import torch.nn as nn
 from torch_geometric.nn import GCNConv
 import numpy as np
-from mediapipe.python.solutions import holistic as mp_holistic_module
+import mediapipe as mp
+mp_holistic_module = mp.solutions.holistic
 import base64
 import cv2
 import json
